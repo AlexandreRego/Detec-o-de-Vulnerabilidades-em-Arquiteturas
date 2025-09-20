@@ -1,8 +1,8 @@
-🚀 # Desafio DIO – FastAPI + Azure OpenAI + STRIDE
+# Desafio DIO – FastAPI + Azure OpenAI + STRIDE 🚀 
 
 Este repositório documenta minha jornada no desafio prático da DIO, que consistiu em criar (ou simular) uma API capaz de analisar ameaças em arquiteturas de software a partir de imagens de diagramas, utilizando Python, FastAPI e Azure OpenAI.
 
-🎯 # Objetivos de Aprendizado
+# Objetivos de Aprendizado 🎯
 
 Compreender e aplicar a metodologia STRIDE.
 
@@ -14,7 +14,7 @@ Aplicar técnicas de prompt engineering para análises automatizadas.
 
 Documentar aprendizados de forma técnica no GitHub.
 
-🛠️ # Tecnologias Utilizadas
+# Tecnologias Utilizadas 🛠️
 
 Python 3.10+
 
